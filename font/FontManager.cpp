@@ -34,8 +34,10 @@ GNU General Public License for more details.
 #define DEFAULT_CONFONT  "DroidSans"
 #define DEFAULT_WEIGHT   1000
 #else
-#define DEFAULT_MENUFONT "Trebuchet MS"
-#define DEFAULT_CONFONT  "Tahoma"
+//#define DEFAULT_MENUFONT "Trebuchet MS"
+//#define DEFAULT_CONFONT  "Tahoma"
+#define DEFAULT_MENUFONT "MiSans Medium"
+#define DEFAULT_CONFONT  "MiSans Medium"
 #define DEFAULT_WEIGHT   500
 #endif
 
